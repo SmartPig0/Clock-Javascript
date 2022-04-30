@@ -1,0 +1,22 @@
+body{
+    background: black;
+    color: #fff;
+}
+
+.container-clock{
+    font-size: 4em;
+    text-align: center;
+    margin: 200px auto 0;
+    color: white;
+}
+
+.container-clock span{
+    padding: 20px;
+    background: blue;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+}
